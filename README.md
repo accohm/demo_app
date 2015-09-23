@@ -1,1 +1,1 @@
-# rails 練習♪
+# rails gannbaru
